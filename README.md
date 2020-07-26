@@ -13,9 +13,11 @@ git clone https://github.com/8xia8/Hash-Encoder-Decoder.git
     cd Hash-Encoder-Decoder/
 
     cd Hash-Encoder\&Decoder/
+    
+    pip3 install -r requirement
 
     python3 main.py
-
+    
 # How To Encrypt SHA1,SHA256,SHA512,MD5,BASE64
 **ENCRYPT**
 
